@@ -1,9 +1,15 @@
+
 body {
-  background color: blue
-  font family: 'Poiret one', serif;
+  background-color: #F1EEEE
+  
+  font-family: 'Poiret one', serif;
 }
 
 h1, h2 {
+  font-family: 'Poiret one', serif;
+}
+
+p {
   font-family: 'Poiret one', serif;
 }
 
@@ -13,6 +19,3 @@ img {
   width: 12em;
   display: block;
 }
-   
-  
-  
