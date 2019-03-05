@@ -1,0 +1,56 @@
+
+#jumbo1{
+  background-image: url("/images/plantheader.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #FFF0EC;
+
+}
+#jumbo2 {
+  background-color: #FFF0EC;
+
+}
+#headerTitle {
+  font-family: 'Poiret one', serif;
+  color: white;
+  font-weight: bold;
+
+}
+
+#headerSlogan {
+  color: white;
+  font-weight: bold;
+
+}
+
+#kseniyaHeader {
+  width: 25%;
+    height: 25%;
+}
+
+
+body {
+  background-color: #FFF0EC;
+  
+  font-family: 'Poiret one', serif;
+}
+
+h1, h2 {
+  font-family: 'Poiret one', serif;
+}
+
+p {
+  font-family: 'Poiret one', serif;
+}
+
+img {
+  margin-left: auto; 
+  margin-right: auto;
+  width: 12em;
+  display: block;
+}
+
+#bodyText {
+  font-family: 'Open Sans', sans-serif;
+
+}
